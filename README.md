@@ -1,11 +1,14 @@
-# github-final-project
+## Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
+```
 Input:
-  - p, principal amount 원금
-  - t, time period in years 기간(년)
-  - r, annual rate of interest 연간 이자율
-    
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
 Output
-  - simple interest = p*t*r
+   simple interest = p*t*r
+```
+
+_© 2024 BrainAI Co., Ltd._
